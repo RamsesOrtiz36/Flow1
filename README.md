@@ -6,3 +6,5 @@ Tercer intento de hacer commit desde VSC y que se guarde en GitHub
 
 
 Este es el primer commit con el plugin de Github
+
+Comprobando que se hacer el pull request de una modificación desde VSC usando el plugin de Github
